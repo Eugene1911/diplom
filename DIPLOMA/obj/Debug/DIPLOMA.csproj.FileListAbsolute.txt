@@ -1,0 +1,75 @@
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\DIPLOMA.exe.config
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\DIPLOMA.exe
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\DIPLOMA.pdb
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\ZedGraph.dll
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\ZedGraph.xml
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\de\ZedGraph.resources.dll
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\es\ZedGraph.resources.dll
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\fr\ZedGraph.resources.dll
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\hu\ZedGraph.resources.dll
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\it\ZedGraph.resources.dll
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\ja\ZedGraph.resources.dll
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\pt\ZedGraph.resources.dll
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\ru\ZedGraph.resources.dll
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\sk\ZedGraph.resources.dll
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\sv\ZedGraph.resources.dll
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\tr\ZedGraph.resources.dll
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\zh-cn\ZedGraph.resources.dll
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\bin\Debug\zh-tw\ZedGraph.resources.dll
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.csprojResolveAssemblyReference.cache
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.Form1.resources
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.Properties.Resources.resources
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.csproj.GenerateResource.Cache
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.exe
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.pdb
+c:\users\эрик\documents\visual studio 2013\Projects\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.Form2.resources
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\DIPLOMA.exe.config
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.exe
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.pdb
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\DIPLOMA.exe
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\DIPLOMA.pdb
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\ZedGraph.xml
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.Form1.resources
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.Form2.resources
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.Properties.Resources.resources
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.csproj.GenerateResource.Cache
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\DIPLOMA.exe.config
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.exe
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.pdb
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\DIPLOMA.exe
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\DIPLOMA.pdb
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\ZedGraph.xml
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.Form1.resources
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.Form2.resources
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.Properties.Resources.resources
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.csproj.GenerateResource.Cache
+C:\Users\Евгений\Desktop\диплом\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.Form3.resources
+C:\Users\Eric\Desktop\DIPLOMA\DIPLOMA\obj\Debug\DIPLOMA.Form3.resources
